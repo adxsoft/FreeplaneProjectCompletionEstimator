@@ -2,7 +2,7 @@
 *Project Completion Estimator v0.1<br>
 Developed by ADXSoft (Allan)<br>
 19th Jan 2017<br>
-- a Freeplane map developed in Freeplane 1.5.18*
+developed in Freeplane 1.5.18*
 
 A freeplane map that demonstrates formulas with date arithmetic
 
