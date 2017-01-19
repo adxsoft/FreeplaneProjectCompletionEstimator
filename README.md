@@ -1,5 +1,5 @@
 # Project Completion Estimator
-*Project Completion Estimator v0.1<br>
+*Project Completion Estimator v0.2<br>
 Developed by ADXSoft (Allan)<br>
 19th Jan 2017<br>
 developed in Freeplane 1.5.18*
@@ -21,3 +21,7 @@ Task completion data is rolled up into phases
 
 phase data is then rolled up to provide a forecast project
 finish and overrun which are attributes under the root node.
+
+## Version history
+v0.1 first release
+v0.2 made attribute names consistent
